@@ -5,69 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="546a7460-a3ea-4e26-b033-823a75902cb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/common/ProductCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/layout/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/layout/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/public/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/public/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/public/Products.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/public/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/common/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/layout/MainLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/services/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/CreatorStoreApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/config/AdminInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/config/CorsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/AdminOrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/DashboardController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/ProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/controllers/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/AuthResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/DashboardResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/OrderItemRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/OrderItemResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/OrderRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/OrderResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/ProductRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/ProductResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/dto/UserResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/entities/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/exceptions/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/exceptions/InsufficientStockException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/exceptions/ResourceNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/repositories/OrderItemRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/repositories/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/repositories/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/security/CustomUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/security/JwtAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/security/JwtService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/services/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/services/DashboardService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/services/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/services/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/goldi/creatorstore/services/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/in/goldi/creatorstore/CreatorStoreApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,34 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Spring Boot.CreatorStoreApplication.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/simad/OneDrive/Desktop/CreatorStore&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.CreatorStoreApplication.executor": "Debug",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/simad/OneDrive/Desktop/CreatorStore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\simad\OneDrive\Desktop\CreatorStore\frontend\src" />
@@ -142,7 +86,8 @@
   </component>
   <component name="RunManager">
     <configuration name="CreatorStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="CreatorStore" />
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="in.goldi.creatorstore.CreatorStoreApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
